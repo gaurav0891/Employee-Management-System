@@ -1,2 +1,14 @@
-# Student-Management-System-Java-MySQL
-Developed a console-based application using C++/Java and MySQL to manage student records. Implemented CRUD operations, search functionality, and database connectivity following OOP principles.
+# Student Management System
+
+A console-based Student Management System built using Java and MySQL.
+
+## Features
+- Login system (Admin/User)
+- Add, update, and delete student records
+- Search students by ID or name
+- MySQL database integration using JDBC
+
+## Technologies
+- Java
+- MySQL
+- JDBC
