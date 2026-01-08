@@ -1,14 +1,21 @@
-# Student Management System
+# Employee Management System (Java)
 
-A console-based Student Management System built using Java and MySQL.
+## Description
+A file-based Employee Management System built using Core Java.
+No database is used; data is stored in files.
 
 ## Features
-- Login system (Admin/User)
-- Add, update, and delete student records
-- Search students by ID or name
-- MySQL database integration using JDBC
+- Add Employee
+- View Employees
+- Persistent Storage using File Handling
 
 ## Technologies
 - Java
-- MySQL
-- JDBC
+- OOP
+- File I/O
+- Collections
+
+## How to Run
+1. Clone the repo
+2. Compile the project
+3. Run Main.java
